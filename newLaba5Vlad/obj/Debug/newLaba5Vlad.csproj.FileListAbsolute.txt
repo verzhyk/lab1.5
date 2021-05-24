@@ -1,0 +1,14 @@
+C:\Users\goss_rivero\source\repos\newLaba5Vlad\newLaba5Vlad\bin\Debug\newLaba5Vlad.exe.config
+C:\Users\goss_rivero\source\repos\newLaba5Vlad\newLaba5Vlad\bin\Debug\newLaba5Vlad.exe
+C:\Users\goss_rivero\source\repos\newLaba5Vlad\newLaba5Vlad\bin\Debug\newLaba5Vlad.pdb
+C:\Users\goss_rivero\source\repos\newLaba5Vlad\newLaba5Vlad\obj\Debug\newLaba5Vlad.csprojAssemblyReference.cache
+C:\Users\goss_rivero\source\repos\newLaba5Vlad\newLaba5Vlad\obj\Debug\newLaba5Vlad.csproj.CoreCompileInputs.cache
+C:\Users\goss_rivero\source\repos\newLaba5Vlad\newLaba5Vlad\obj\Debug\newLaba5Vlad.exe
+C:\Users\goss_rivero\source\repos\newLaba5Vlad\newLaba5Vlad\obj\Debug\newLaba5Vlad.pdb
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba5Vlad\newLaba5Vlad\bin\Debug\newLaba5Vlad.exe.config
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba5Vlad\newLaba5Vlad\bin\Debug\newLaba5Vlad.exe
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba5Vlad\newLaba5Vlad\bin\Debug\newLaba5Vlad.pdb
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba5Vlad\newLaba5Vlad\obj\Debug\newLaba5Vlad.csprojAssemblyReference.cache
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba5Vlad\newLaba5Vlad\obj\Debug\newLaba5Vlad.csproj.CoreCompileInputs.cache
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba5Vlad\newLaba5Vlad\obj\Debug\newLaba5Vlad.exe
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba5Vlad\newLaba5Vlad\obj\Debug\newLaba5Vlad.pdb
